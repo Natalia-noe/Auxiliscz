@@ -1,0 +1,36 @@
+# Dependencias
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.env
+backend/auxilio_scz.db
+
+frontend-angular/node_modules/
+frontend-angular/.angular/cache/
+frontend-angular/dist/
+frontend-angular/.angular/
+
+flutter-app/.dart_tool/
+flutter-app/build/
+flutter-app/.pub-cache/
+flutter-app/.idea/
+flutter-app/auxilio_scz.db
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
